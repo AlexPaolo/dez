@@ -5,6 +5,6 @@
   "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     },
-  "postCreateCommand": "./open-file.sh"
+  "postCreateCommand": "./setup.sh"
     
 }
