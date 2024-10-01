@@ -1,7 +1,0 @@
-{
-    "name": "Your Dev Container",
-    "settings": {
-        "terminal.integrated.defaultProfile.linux": "bash"
-    },
-    "remoteUser": "vscode"
-}
